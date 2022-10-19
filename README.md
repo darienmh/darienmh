@@ -18,8 +18,7 @@
 - 💬 &nbsp; Ask me about anything [here](https://github.com/darienmh/darienmh/issues/new)! I am happy to help.
 - 👾 &nbsp; Fun fact: I don't use negative numbers in solidity.
 
-
-
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=darienmh" alt="Darien Macías Codersrank Skills"/>
 
 
 <!--
